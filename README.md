@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer<br>Currently studying at ALX/Holberton School<br>Shoot me an Email or add me on Linkedin :)
+😎 I'm a Software Engineer<br>📚 Currently studying at ALX/Holberton School<br>📬 Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
