@@ -1,5 +1,7 @@
 # 💫 About Me:
-😎 I'm a Software Engineer<br>📚 Currently studying at ALX/Holberton School<br>📬 Shoot me an Email or add me on Linkedin :)
+😎 I'm a Software Engineer<br>
+📚 Currently studying at ALX/Holberton School<br>
+📬 Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
@@ -11,7 +13,7 @@
 ### Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dukeofhazardz)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/dukeofhazardz)
-[![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dukeofhazardz)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dukeofhazardz)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/dukeofhazardz)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/dukeofhazardz)
 
@@ -38,6 +40,6 @@
 
 
 ---
-[[![](https://visitcount.itsvg.in/api?id=dukeofhazardz&icon=0&color=0)](https://visitcount.itsvg.in)](https://github.com/dukeofhazardz)
+[![](https://visitcount.itsvg.in/api?id=dukeofhazardz&icon=0&color=0)](https://github.com/dukeofhazardz)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
