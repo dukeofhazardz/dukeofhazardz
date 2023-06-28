@@ -25,6 +25,7 @@
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/dukeofhazardz)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/dukeofhazardz)
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&color=black)](https://github.com/dukeofhazardz)
+[![Gunicorn](https://img.shields.io/badge/gunicorn-black?style=for-the-badge&logo=gunicorn&color=black)](https://github.com/dukeofhazardz)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dukeofhazardz)
