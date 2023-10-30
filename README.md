@@ -2,7 +2,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1100&amp;width=500&amp;lines=I'm+Nnaemeka+Daniel+John.;I'm+a+Backend+Developer;)<br>
 
-![](https://raw.githubusercontent.com/{dukeofhazardz}/{dukeofhazardz}/{main}/.github/images/{xero-code}.{gif})<br>
+![xero-code](https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/b9eb0834-871b-4d61-8408-90e1bfe6dc93)<br>
 
 # 💫 About Me:
 😎 I'm a Software Engineer<br>
@@ -57,7 +57,7 @@
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/dukeofhazardz)
 
 
-![](https://raw.githubusercontent.com/{dukeofhazardz}/{dukeofhazardz}/{main}/.github/images/{pepega-write}.{gif})<br>
+![pepega-write](https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/ec4b7422-b55c-42ce-813c-2293cbbb4a3b)<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dukeofhazardz&icon=0&color=0)](https://github.com/dukeofhazardz)
