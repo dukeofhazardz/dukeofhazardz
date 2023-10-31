@@ -5,7 +5,7 @@
 # 💫 About Me:
 |||
 |:------------------------|:-----------------------------------|
-| 😎 I'm a Software Engineer <br> 📚 Currently studying at ALX/Holberton School <br> 📬 Shoot me an Email or add me on Linkedin :) | <img src="https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/b9eb0834-871b-4d61-8408-90e1bfe6dc93" width="300" height="300"> |
+| 😎 I'm a Software Engineer <br> 📚 Currently studying at ALX/Holberton School <br> 📬 Shoot me an Email or add me on Linkedin :) | <img src="https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/b9eb0834-871b-4d61-8408-90e1bfe6dc93" width="200" height="200"> |
 
 
 # 💫 About Me:
