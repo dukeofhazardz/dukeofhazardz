@@ -1,9 +1,12 @@
 ## Hello There 👋
+
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1100&amp;width=500&amp;lines=I'm+Nnaemeka+Daniel+John.;I'm+a+Backend+Developer;)
+
 # 💫 About Me:
 😎 I'm a Software Engineer<br>
 📚 Currently studying at ALX/Holberton School<br>
-📬 Shoot me an Email or add me on Linkedin :)
+📬 Shoot me an Email or add me on Linkedin :)<br>
+
 <img src="https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/b9eb0834-871b-4d61-8408-90e1bfe6dc93" width="200" height="200">
 
 ## 🌐 Socials:
