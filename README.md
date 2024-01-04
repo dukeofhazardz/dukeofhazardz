@@ -42,6 +42,7 @@
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&color=black)](https://github.com/dukeofhazardz)
 [![Gunicorn](https://img.shields.io/badge/gunicorn-black?style=for-the-badge&logo=gunicorn&color=black)](https://github.com/dukeofhazardz)
 [![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://github.com/dukeofhazardz)
+[![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=black)](https://github.com/dukeofhazardz)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dukeofhazardz)
