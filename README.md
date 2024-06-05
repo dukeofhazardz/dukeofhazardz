@@ -53,14 +53,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=dukeofhazardz&theme=dark&hide_border=false)](https://github.com/dukeofhazardz)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukeofhazardz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/dukeofhazardz)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/dukeofhazardz)
-
-
-![pepega-write](https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/ec4b7422-b55c-42ce-813c-2293cbbb4a3b)<br>
-
----
-[![](https://visitcount.itsvg.in/api?id=dukeofhazardz&icon=0&color=0)](https://github.com/dukeofhazardz)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
