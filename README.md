@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 😎 I'm a Software Engineer<br>
-📚 Currently studying at ALX/Holberton School<br>
+📚 Always learning new stuff<br>
 📬 Shoot me an Email or add me on Linkedin :)<br>
 
 <img src="https://github.com/dukeofhazardz/dukeofhazardz/assets/113605239/b9eb0834-871b-4d61-8408-90e1bfe6dc93" width="200" height="200">
@@ -32,16 +32,19 @@
 ### Technologies and Frameworks
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dukeofhazardz)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dukeofhazardz)
+[![React](https://img.shields.io/badge/react-js?style=for-the-badge&logo=react&color=black)](https://github.com/dukeofhazardz)
+[![Next.js](https://img.shields.io/badge/Next.js-js?style=for-the-badge&logo=nextdotjs&color=black)](https://github.com/dukeofhazardz)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=green)](https://github.com/dukeofhazardz)
 [![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js&logoColor=blue)](https://github.com/dukeofhazardz)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/dukeofhazardz)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&color=black)](https://github.com/dukeofhazardz)
+[![FastAPI](https://img.shields.io/badge/FastAPI-api?style=for-the-badge&logo=fastapi&color=black)](https://github.com/dukeofhazardz)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/dukeofhazardz)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/dukeofhazardz)
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&color=black)](https://github.com/dukeofhazardz)
 [![Gunicorn](https://img.shields.io/badge/gunicorn-black?style=for-the-badge&logo=gunicorn&color=black)](https://github.com/dukeofhazardz)
 [![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)](https://github.com/dukeofhazardz)
 [![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=black)](https://github.com/dukeofhazardz)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/dukeofhazardz)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dukeofhazardz)
